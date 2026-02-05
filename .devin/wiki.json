@@ -1,0 +1,11 @@
+{
+  "pages": [
+    {
+      "title": "RuVector Postgres SQL Schema",
+      "path": "crates/ruvector-postgres/sql/ruvector--2.0.0.sql",
+      "purpose": "Detailed schema for v2.0.0 extension with indexes and types"
+    }
+  ],
+  "repo_notes": "Prioritize Postgres extension SQL files for full parsing."
+}
+```[1]
